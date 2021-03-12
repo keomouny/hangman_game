@@ -1,0 +1,5 @@
+02/09/2021 11:51:29 PM -  launch hangman game
+02/09/2021 11:51:29 PM -  create hangman for hangman game
+02/09/2021 11:51:29 PM -  open file (list_francais.txt)
+02/09/2021 11:51:29 PM -  get file is ok
+02/09/2021 11:51:29 PM -  convert word from liste_francais file to underscore list
